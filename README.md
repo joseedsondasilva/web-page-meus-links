@@ -2,4 +2,4 @@
 
 Criei uma web page para depositar meus links dentro. 
 
-link: https://serene-dijkstra-72275a.netlify.app/
+link: https://pedantic-babbage-5be2e0.netlify.app/
